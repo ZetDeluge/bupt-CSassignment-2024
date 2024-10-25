@@ -16,7 +16,7 @@ a / ( b * c - d )
 输出样例:
 2.6*/
 
-//后续assignment中皆为cpp实现，并提供相应语句的c实现
+//后续assignment中皆为cpp实现，并提供部分语句的c实现
 
 #include <iostream> //若使用c，则将此改为c头文件<stdio.h>
 #include <cmath> //若使用c，则将此改为c头文件<math.h>
